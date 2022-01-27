@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\bin\Debug\netcoreapp3.1\Course3Heranca.exe
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\bin\Debug\netcoreapp3.1\Course3Heranca.deps.json
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\bin\Debug\netcoreapp3.1\Course3Heranca.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\bin\Debug\netcoreapp3.1\Course3Heranca.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\bin\Debug\netcoreapp3.1\Course3Heranca.dll
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\bin\Debug\netcoreapp3.1\Course3Heranca.pdb
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.dll
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.pdb
+C:\Users\Usuario\Documents\Udemy C# 2\Course3Heranca\Course3Heranca\obj\Debug\netcoreapp3.1\Course3Heranca.genruntimeconfig.cache
